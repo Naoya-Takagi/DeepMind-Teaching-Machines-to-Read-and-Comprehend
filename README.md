@@ -1,5 +1,6 @@
 DeepMind : Teaching Machines to Read and Comprehend
 =========================================
+TEST
 
 This repository contains an implementation of the two models (the Deep LSTM and the Attentive Reader) described in *Teaching Machines to Read and Comprehend* by Karl Moritz Hermann and al., NIPS, 2015. This repository also contains an implementation of a Deep Bidirectional LSTM. 
 
